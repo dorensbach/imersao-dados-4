@@ -28,6 +28,10 @@ Dados dos Setores Censitários: [Link](https://drive.google.com/drive/folders/1C
 Dados IBGE:[Link](https://gist.githubusercontent.com/tgcsantos/85f8c7b0a2edbc3e27fcad619b37d886/raw/a4954781e6bca9cb804062a3eea0b3b84679daf4/Basico_SP1.csv)
 Dicionário de dados IBGE:[Link](https://drive.google.com/file/d/1WVTqfKtHOOk5X1AWaSOn6NLaO7cix2m4/view?usp=sharing)
 
+### [Aula 5 - Machine Learning](https://www.alura.com.br/imersao-dados-4/aula05-machine-learning)
+Notebook da aula 05: [Link](https://colab.research.google.com/drive/1vb_cm77CDEfR171EcN6sHKEaNgKPXzqE?usp=sharing)
+Base de dados já tratada: [Link](https://drive.google.com/file/d/1iAFJhgMUquxsbGxM1pWz9BLjpC9SULKr/view)
+
 #### Saber mais
 [Pandas](https://pandas.pydata.org/)\
 [Seaborn](https://seaborn.pydata.org/)\
